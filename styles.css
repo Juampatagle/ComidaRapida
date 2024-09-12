@@ -72,7 +72,7 @@ nav ul li a:hover{
     display: none;
 }
 
-/* hero section */
+/* inicio seccion */
 
 .hero-section{
     height: calc(100vh - 80px);
@@ -159,7 +159,7 @@ nav ul li a:hover{
 
 }
 
-/* trending food section */
+/* deseado seccion */
 
 #trendSection{
     padding: 100px 4rem;
@@ -198,7 +198,7 @@ nav ul li a:hover{
     transform: scale(1.3);
 }
 
-/* testimonial section */
+/* opiniones seccion */
 
 #testimonialSection{
     padding: 100px 4rem;
@@ -238,7 +238,7 @@ nav ul li a:hover{
     padding-top: 20px;
 }
 
-/* blog section */
+/* sucursales seccion */
 
 #blogsection{
     padding: 100px 4rem;
